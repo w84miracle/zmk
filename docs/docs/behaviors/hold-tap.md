@@ -33,7 +33,7 @@ When the hold-tap key is released and the hold behavior has not been triggered, 
 
 ### Basic usage
 
-For basic usage, please see [mod-tap](./mod-tap.md) and [layer-tap](./layers.md) pages.
+For basic usage, please see [mod-tap](mod-tap.md) and [layer-tap](layers.md) pages.
 
 ### Advanced Configuration
 
@@ -85,7 +85,7 @@ This example configures a hold-tap that works well for homerow mods:
 
 		default_layer {
 			bindings = <
-	            &hm LCTRL A &hm LGUI S &hm LALT D &hm LSHFT F
+	            &hm LCTRL A &hm LGUI S &hm LALT D &hm LSHIFT F
 			>;
 		};
 	};
